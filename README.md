@@ -1,2 +1,1 @@
-# Snake_Water_Gun
-my new game
+A fun command-line game written in Python! 
